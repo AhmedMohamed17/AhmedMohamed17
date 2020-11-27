@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 </br>
 </br>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/dCCXwk2nEx2C0mXFa9/giphy.gif">
+<img align="right" alt="Cantona" width="40" src="https://media.giphy.com/media/dCCXwk2nEx2C0mXFa9/giphy.gif">
 </br>
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
