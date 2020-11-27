@@ -5,7 +5,7 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-- I'm aspiring 🔭️ Back-End Web Developer currently learning 🌱 **ReactJs**.
+- I'm aspiring 🔭️ Full-Stack Web Developer currently learning 🌱 **ReactJs**.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
