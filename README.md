@@ -5,7 +5,7 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-- I'm aspiring 🔭️ Full-Stack Web Developer currently learning 🌱 **Mern stack**.
+- I'm aspiring 🔭️ Front-End Developer currently learning 🌱 **Next.js**.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
